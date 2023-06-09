@@ -45,7 +45,7 @@ airy_jvm_deps = [
     "org.aspectj:aspectjweaver:1.9.8",
     "org.hamcrest:hamcrest-library:2.1",
     "org.hamcrest:hamcrest:2.1",
-    "org.junit.jupiter:junit-jupiter-engine:5.8.1",
+    "org.junit.jupiter:junit-jupiter-engine:5.9.3",
     "org.junit.jupiter:junit-jupiter:5.8.1",
     "org.mockito:mockito-core:%s" % MOCKITO_VERSION,
     "org.mockito:mockito-inline:%s" % MOCKITO_VERSION,
