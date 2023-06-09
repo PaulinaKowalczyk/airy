@@ -60,7 +60,7 @@ airy_jvm_deps = [
     "org.springframework.boot:spring-boot-starter-oauth2-client:%s" % SPRING_BOOT,
     "org.springframework.boot:spring-boot-starter-cache:%s" % SPRING_BOOT,
     "org.springframework.security.oauth:spring-security-oauth2:2.4.1.RELEASE",
-    "org.springframework.retry:spring-retry:1.3.2",
+    "org.springframework.retry:spring-retry:1.3.4",
     "org.springframework:spring-aop:%s" % SPRING,
     "org.springframework:spring-context-support:%s" % SPRING,
     "org.springframework:spring-context:%s" % SPRING,
