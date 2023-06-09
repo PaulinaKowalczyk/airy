@@ -13,7 +13,7 @@ airy_jvm_deps = [
     "com.google.auth:google-auth-library-oauth2-http:1.6.0",
     "com.jayway.jsonpath:json-path:2.4.0",
     "com.dinstone:beanstalkc:2.3.0",
-    "com.twilio.sdk:twilio:8.27.1",
+    "com.twilio.sdk:twilio:8.36.0",
     "com.viber:viber-bot:1.0.11",
     "io.confluent:kafka-avro-serializer:6.1.1",
     "io.confluent:kafka-schema-registry-client:6.1.1",
