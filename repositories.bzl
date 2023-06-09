@@ -32,7 +32,7 @@ airy_jvm_deps = [
     "org.slf4j:slf4j-api:1.7.32",
     "org.apache.avro:avro-tools:1.11.0",
     "org.apache.avro:avro:1.11.0",
-    "org.apache.curator:curator-test:4.2.0",
+    "org.apache.curator:curator-test:4.3.0",
     "org.apache.kafka:connect-api:2.7.0",
     "org.apache.kafka:connect-transforms:2.7.0",
     "org.apache.kafka:kafka-clients:2.7.0",
