@@ -67,7 +67,7 @@ airy_jvm_deps = [
     "org.springframework:spring-messaging:%s" % SPRING,
     "org.springframework:spring-websocket:%s" % SPRING,
     "org.springframework.security:spring-security-core:5.6.2",
-    "org.rocksdb:rocksdbjni:5.18.3",
+    "org.rocksdb:rocksdbjni:5.18.4",
     "com.segment.analytics.java:analytics-core:3.1.3",
     "com.segment.analytics.java:analytics:3.1.3",
     "io.github.openfeign:feign-core:11.8",
