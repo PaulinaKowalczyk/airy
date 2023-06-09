@@ -1,6 +1,6 @@
 SPRING = "5.3.17"
 SPRING_BOOT = "2.6.4"
-MOCKITO_VERSION = "4.5.1"
+MOCKITO_VERSION = "4.11.0"
 
 airy_jvm_deps = [
     "com.amazonaws:aws-java-sdk-core:1.12.182",
