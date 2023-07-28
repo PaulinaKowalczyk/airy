@@ -3,8 +3,8 @@ SPRING_BOOT = "2.6.4"
 MOCKITO_VERSION = "4.5.1"
 
 airy_jvm_deps = [
-    "com.amazonaws:aws-java-sdk-core:1.12.182",
-    "com.amazonaws:aws-java-sdk-s3:1.12.182",
+    "com.amazonaws:aws-java-sdk-core:1.12.517",
+    "com.amazonaws:aws-java-sdk-s3:1.12.517",
     "com.fasterxml.jackson.core:jackson-annotations:2.10.0",
     "com.fasterxml.jackson.core:jackson-core:2.10.0",
     "com.fasterxml.jackson.core:jackson-databind:2.10.0",
