@@ -12,7 +12,7 @@ airy_jvm_deps = [
     "com.github.everit-org.json-schema:org.everit.json.schema:1.14.0",
     "com.google.auth:google-auth-library-oauth2-http:1.6.0",
     "com.jayway.jsonpath:json-path:2.4.0",
-    "com.dinstone:beanstalkc:2.3.0",
+    "com.dinstone:beanstalkc:2.4.0",
     "com.twilio.sdk:twilio:8.27.1",
     "com.viber:viber-bot:1.0.11",
     "io.confluent:kafka-avro-serializer:6.1.1",
