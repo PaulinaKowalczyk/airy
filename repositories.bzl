@@ -42,7 +42,7 @@ airy_jvm_deps = [
     "org.apache.lucene:lucene-queryparser:8.7.0",
     "org.apache.lucene:lucene-analyzers-common:8.7.0",
     "org.apache.lucene:lucene-core:8.7.0",
-    "org.aspectj:aspectjweaver:1.9.8",
+    "org.aspectj:aspectjweaver:1.9.20",
     "org.hamcrest:hamcrest-library:2.1",
     "org.hamcrest:hamcrest:2.1",
     "org.junit.jupiter:junit-jupiter-engine:5.8.1",
