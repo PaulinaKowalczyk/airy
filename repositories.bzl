@@ -1,5 +1,5 @@
 SPRING = "5.3.17"
-SPRING_BOOT = "2.6.4"
+SPRING_BOOT = "2.7.16"
 MOCKITO_VERSION = "4.5.1"
 
 airy_jvm_deps = [
