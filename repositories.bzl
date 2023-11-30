@@ -75,7 +75,7 @@ airy_jvm_deps = [
     "io.github.openfeign:feign-okhttp:11.8",
     "io.kubernetes:client-java:16.0.0",
     "org.eclipse.jgit:org.eclipse.jgit:6.3.0.202209071007-r",
-    "commons-io:commons-io:2.11.0",
+    "commons-io:commons-io:2.15.1",
 ]
 
 excluded_artifacts = [
