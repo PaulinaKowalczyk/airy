@@ -22,7 +22,7 @@ airy_jvm_deps = [
     "io.jsonwebtoken:jjwt-api:0.11.2",
     "io.jsonwebtoken:jjwt-impl:0.11.2",
     "io.jsonwebtoken:jjwt-jackson:0.11.2",
-    "io.micrometer:micrometer-registry-prometheus:1.8.4",
+    "io.micrometer:micrometer-registry-prometheus:1.13.4",
     "javax.activation:javax.activation-api:1.2.0",
     "javax.validation:validation-api:2.0.1.Final",
     "javax.xml.bind:jaxb-api:2.3.1",
