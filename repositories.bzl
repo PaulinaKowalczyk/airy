@@ -10,7 +10,7 @@ airy_jvm_deps = [
     "com.fasterxml.jackson.core:jackson-databind:2.10.0",
     "com.fasterxml.jackson.module:jackson-module-afterburner:2.10.0",
     "com.github.everit-org.json-schema:org.everit.json.schema:1.14.0",
-    "com.google.auth:google-auth-library-oauth2-http:1.6.0",
+    "com.google.auth:google-auth-library-oauth2-http:1.30.1",
     "com.jayway.jsonpath:json-path:2.4.0",
     "com.dinstone:beanstalkc:2.3.0",
     "com.twilio.sdk:twilio:8.27.1",
