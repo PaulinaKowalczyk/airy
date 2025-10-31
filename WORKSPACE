@@ -44,10 +44,10 @@ pinned_maven_install()
 # This needs to come before any rules_docker usage as it brings its own version of Gazelle
 http_archive(
     name = "bazel_gazelle",
-    sha256 = "5982e5463f171da99e3bdaeff8c0f48283a7a5f396ec5282910b9e8a49c0dd7e",
+    sha256 = "efd44914900fe52eed891b5e11ff443e8b18ea9b84e304213f04d18e8e20df3d",
     urls = [
-        "https://mirror.bazel.build/github.com/bazelbuild/bazel-gazelle/releases/download/v0.25.0/bazel-gazelle-v0.25.0.tar.gz",
-        "https://github.com/bazelbuild/bazel-gazelle/releases/download/v0.25.0/bazel-gazelle-v0.25.0.tar.gz",
+        "https://mirror.bazel.build/github.com/bazelbuild/bazel-gazelle/releases/download/v0.25.0/bazel-gazelle-v0.46.0.tar.gz",
+        "https://github.com/bazelbuild/bazel-gazelle/releases/download/v0.46.0/bazel-gazelle-v0.46.0.tar.gz",
     ],
 )
 
